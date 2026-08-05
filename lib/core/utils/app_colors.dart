@@ -142,6 +142,9 @@ abstract class AppColors {
   static const Color scrim = Color(0xFF000000);
   static const Color inverseSurface = Color(0xFFE2E2E6);
   static const Color inverseOnSurface = Color(0xFF1B1B1F);
+  
+  /// Custom Background Colors
+  static const Color beige = Color(0xFFF3EFE9);
 
   // ============================================
   // SHIMMER & ANIMATION COLORS
